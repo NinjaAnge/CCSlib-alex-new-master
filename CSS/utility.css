@@ -28,3 +28,14 @@ a:hover{
 .bordered{
     border: solid 1px black;
 }
+
+/*HOVER EFFECTS*/
+
+.hovertest {
+
+    transition: background-color .5s;
+  }
+  
+  .hovertest:hover {
+    background-color:red;
+  }
